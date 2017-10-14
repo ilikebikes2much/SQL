@@ -1,0 +1,10 @@
+Here are the directions to increase the font size on pgAdmin4 on the Surface Pro.
+
+- Right Click on the app on the task bar 
+- Right Click on pgAdmin4 v2
+- Click Properties
+- Go to Compatibility
+- Check: Override high DPI scaling behavior
+        -On the drop menu change the preference from Application to System (enhanced) 
+- Apply
+- Restart the app
